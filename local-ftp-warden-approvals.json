@@ -1,0 +1,18 @@
+{
+ "format": 1,
+ "issued": "2026-11-21T04:38:34Z",
+ "kind": "local-ftp-warden-approvals",
+ "paused": false,
+ "program": [
+  {
+   "approved": "2026-11-21T04:38:34Z",
+   "ring": "all",
+   "version": "1.0.0"
+  }
+ ],
+ "rings": {
+  "pilot": [],
+  "test": []
+ },
+ "serial": 1
+}
